@@ -35,7 +35,4 @@ public class CatBazService {
 			throw new IllegalArgumentException("FizzBuzz returned the string " + i + " which cannot be parsed by CatBaz" );
 		}
 	}
-	
-	
-
 }
